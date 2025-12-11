@@ -13,7 +13,7 @@
 
 - A server which is responsible for resolving DNS queries.
 
-**_4.What is the resolution sequence of: www.site.com_**
+**_4.What is the resolution sequence of: `www.site.com`_**
 
 - It's resolved in this order:
   - 1. .
