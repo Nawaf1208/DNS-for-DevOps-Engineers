@@ -33,11 +33,11 @@
 
 - `.com.` is the top level domain
 
-**_8.Given the following fqdn, www.blipblop.com, what is the second level domain?_**
+**_8.Given the following fqdn, `www.blipblop.com`, what is the second level domain?_**
 
 - `blipblop.com.` is the second level domain
 
-**_9.Given the following fqdn, www.blipblop.com, what is the domain?_**
+**_9.Given the following fqdn, `www.blipblop.com`, what is the domain?_**
 
 - `www.blipblop.com.` is the domain
 
