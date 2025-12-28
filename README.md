@@ -1,5 +1,7 @@
 # DNS-for-DevOps-Engineers
 
+![](DNS.png)
+
 **_1.What is DNS? What is it used for?_**
 
 - DNS (Domain Name Systems) is a protocol used for converting domain names into IP addresses.
