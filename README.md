@@ -212,7 +212,7 @@ NS: name servers that can respond to DNS queries
 ## DNS - TTL
 
 <details>
-<summary><b><i>19.xplain DNS Records TTL</i></b></summary>
+<summary><b><i>19.Explain DNS Records TTL</i></b></summary>
 
 $\color{green}{\text{Answer}}$
 
